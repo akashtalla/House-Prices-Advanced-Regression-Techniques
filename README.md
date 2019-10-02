@@ -17,8 +17,12 @@ Id, SalePrice
 # File descriptions
 
 train.csv - The training set
+
 test.csv - The test set
+
 data_description.txt - Full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here
+
 sample_submission.csv - A benchmark submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms
+
 
 Dataset Source - https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
